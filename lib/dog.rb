@@ -1,5 +1,3 @@
-require 'pry'
-
-
-binding.pry
-0
+class Dog
+  
+end
